@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe>
+    <infNFe Id="NFe-EXEMPLO-1-1001" versao="4.00">
+      <ide>
+        <cUF>35</cUF>
+        <natOp>VENDA DE MERCADORIA</natOp>
+        <mod>55</mod>
+        <serie>1</serie>
+        <nNF>1001</nNF>
+        <dhEmi>2026-07-15T10:12:00-03:00</dhEmi>
+        <tpNF>1</tpNF>
+        <tpAmb>2</tpAmb>
+      </ide>
+      <emit>
+        <xNome>Empresa Exemplo Ltda</xNome>
+        <enderEmit><xMun>Cidade Exemplo</xMun><UF>SP</UF></enderEmit>
+      </emit>
+      <dest>
+        <xNome>Comércio Modelo Ltda</xNome>
+        <enderDest><xMun>Vila Modelo</xMun><UF>SP</UF></enderDest>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <cProd>P0001</cProd>
+          <xProd>Parafuso sextavado M6 x 40 zincado</xProd>
+          <NCM>73181500</NCM>
+          <CFOP>5102</CFOP>
+          <uCom>UN</uCom>
+          <qCom>1200.0000</qCom>
+          <vUnCom>0.4200</vUnCom>
+          <vProd>504.00</vProd>
+        </prod>
+        <imposto>
+          <ICMS><ICMS00><orig>0</orig><CST>00</CST><pICMS>18.00</pICMS></ICMS00></ICMS>
+        </imposto>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>P0002</cProd>
+          <xProd>Porca sextavada M6 zincada</xProd>
+          <NCM>73181600</NCM>
+          <CFOP>5102</CFOP>
+          <uCom>UN</uCom>
+          <qCom>1500.0000</qCom>
+          <vUnCom>0.1800</vUnCom>
+          <vProd>270.00</vProd>
+        </prod>
+        <imposto>
+          <ICMS><ICMS00><orig>0</orig><CST>00</CST><pICMS>18.00</pICMS></ICMS00></ICMS>
+        </imposto>
+      </det>
+      <det nItem="3">
+        <prod>
+          <cProd>P0009</cProd>
+          <xProd>Disco de corte 7 pol</xProd>
+          <NCM>68042290</NCM>
+          <CFOP>5405</CFOP>
+          <uCom>UN</uCom>
+          <qCom>60.0000</qCom>
+          <vUnCom>9.8000</vUnCom>
+          <vProd>588.00</vProd>
+        </prod>
+        <imposto>
+          <ICMS><ICMS00><orig>0</orig><CST>00</CST><pICMS>18.00</pICMS></ICMS00></ICMS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vProd>1362.00</vProd>
+          <vNF>1362.00</vNF>
+        </ICMSTot>
+      </total>
+    </infNFe>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+        <Reference URI="#NFe-EXEMPLO-1-1001">
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+          <DigestValue>RESUMO-DE-EXEMPLO-NAO-E-REAL=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>ASSINATURA-DE-EXEMPLO-NAO-E-REAL=</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>CERTIFICADO-DE-EXEMPLO-NAO-E-REAL=</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe versao="4.00">
+    <infProt>
+      <tpAmb>2</tpAmb>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e (ambiente de exemplo)</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>
