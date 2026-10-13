@@ -4,7 +4,7 @@ Duas operações em lote sobre XMLs de NF-e, as duas em **dois tempos**: **Confe
 e mostra o que vai acontecer; o botão de executar só age depois. Mexeu num campo, o plano
 é descartado e é preciso conferir de novo.
 
-<!-- adicionar: print da tela -->
+![XML de NF-e na aba Trocar CFOP, com a prévia do que vai ser trocado](../docs/prints/xml-nfe.png)
 
 ## Separar por número
 

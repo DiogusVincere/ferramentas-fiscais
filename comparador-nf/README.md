@@ -4,7 +4,7 @@ Compara dois relatórios de notas fiscais — por exemplo, o que o portal de not
 o que o sistema contábil escriturou — e diz, nota a nota, o que confere e o que precisa de
 olho.
 
-<!-- adicionar: print da tela com o resultado -->
+![Comparador de Notas depois de comparar os dois relatórios de exemplo](../docs/prints/comparador.png)
 
 ## Como usar
 

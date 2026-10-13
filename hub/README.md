@@ -8,7 +8,7 @@ janelinha com a saída linha por linha.
 Ao abrir uma ferramenta o hub captura a saída do processo e, se a janela morrer nos
 primeiros 2,5 s, mostra o que o Python respondeu — sem isso o `pythonw` engole o erro.
 
-<!-- adicionar: print do hub -->
+![Hub: um cartão por ferramenta, com o estado e os botões](../docs/prints/hub.png)
 
 ## Arquivos
 

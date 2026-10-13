@@ -12,7 +12,7 @@ todas as empresas**, no layout de importação de inventário do sistema contáb
 O CSV que o sistema importa é gerado à mão a partir desses arquivos (Salvar como CSV no
 Excel), por isso a ferramenta não gera CSV.
 
-<!-- adicionar: print da tela com a leitura -->
+![Bloco K com estoque-exemplo.xlsx lido e a prévia da Posse de Produtos](../docs/prints/bloco-k.png)
 
 ## Como usar
 

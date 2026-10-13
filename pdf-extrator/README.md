@@ -3,7 +3,7 @@
 Tira a tabela de dentro de um PDF e devolve em `.xlsx`. Não depende de Ghostscript nem de
 Java: só `pdfplumber` e `openpyxl`.
 
-<!-- adicionar: print da tela com a prévia -->
+![Extrator de PDF com a prévia de tabela-exemplo.pdf](../docs/prints/extrator.png)
 
 ## Como usar
 

@@ -8,7 +8,22 @@ sistema contábil.
 Tudo roda na própria máquina: sem servidor, sem navegador, sem internet e sem Excel
 aberto. Precisa só do Python 3 e de quatro bibliotecas.
 
-<!-- adicionar: print do hub -->
+![Hub das Ferramentas Fiscais, com os quatro cartões](docs/prints/hub.png)
+
+## Demonstração
+
+![Comparador de Notas: lendo a pasta de exemplo, comparando os dois relatórios e mostrando as divergências](docs/prints/comparador.gif)
+
+*O comparador lendo os dois relatórios de exemplo, comparando e apontando as divergências plantadas.*
+
+**[Baixar o pacote para Windows](https://github.com/DiogusVincere/ferramentas-fiscais/releases)** — um zip com
+`Ferramentas Fiscais.exe`, que abre o hub **sem precisar instalar Python** nem biblioteca nenhuma. Descompacte
+numa pasta qualquer e abra o executável; na primeira vez o Windows pode avisar que o editor é desconhecido
+("Mais informações" → "Executar assim mesmo"). Os exemplos fictícios vêm dentro, na pasta `exemplos/` de cada
+ferramenta, e as planilhas geradas ficam em `<ferramenta>/saidas/`.
+
+Para montar o pacote a partir do código: `pip install pyinstaller` e `python build\empacotar.py` (ver
+[`build/`](build/)). Os prints de cada tela estão nos READMEs das ferramentas e em [`docs/prints/`](docs/prints/).
 
 ## As ferramentas
 
@@ -74,6 +89,8 @@ plantadas no comparador, os avisos do Bloco K etc.).
 ferramentas-fiscais/
 ├── Abrir Ferramentas.bat        abre o hub (pythonw hub\hub.pyw)
 ├── requirements.txt
+├── build/                       lancador.py, ferramentas.spec e empacotar.py: o pacote portátil (PyInstaller)
+├── docs/prints/                 prints e GIF usados nos READMEs
 ├── hub/
 │   ├── hub.pyw                  a tela do hub; a lista FERRAMENTAS é a fonte da verdade
 │   └── tema.py                  paleta, estilos ttk, faixa do topo e a classe Tabela
