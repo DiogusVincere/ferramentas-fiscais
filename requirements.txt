@@ -1,0 +1,7 @@
+# Bibliotecas das Ferramentas Fiscais. O Tkinter já vem com o Python.
+# Instale tudo de uma vez:  pip install -r requirements.txt
+openpyxl>=3.1      # ler e gravar .xlsx (todas as ferramentas)
+xlrd>=2.0          # ler .xls sem precisar do Excel (comparador de notas)
+pdfplumber>=0.11   # texto, palavras e tabelas de PDF (extrator de PDF)
+lxml>=5.0          # ler e gravar XML preservando namespace e assinatura (XML de NF-e)
+Pillow>=10.0       # só para gerar o PDF "digitalizado" de exemplo (pdf-extrator/exemplos)

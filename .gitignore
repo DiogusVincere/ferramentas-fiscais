@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Gerado pelas ferramentas em uso
+saidas/
+config.json
+*.log
+
+# Relatórios de exemplo do comparador são gerados na hora (python exemplos/gerar_relatorios_exemplo.py)
+comparador-nf/exemplos/*.xlsx
+
+# Editor e sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
