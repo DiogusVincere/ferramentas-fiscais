@@ -1,0 +1,330 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 5785 >>
+stream
+BT /F2 13 Tf 40 800 Td (Empresa Exemplo Ltda) Tj ET
+BT /F1 9 Tf 40 784 Td (Relatório de estoque em 31/07/2026) Tj ET
+0.5 w 0.3 G
+40 756 m 560 756 l S
+40 740 m 560 740 l S
+40 724 m 560 724 l S
+40 708 m 560 708 l S
+40 692 m 560 692 l S
+40 676 m 560 676 l S
+40 660 m 560 660 l S
+40 644 m 560 644 l S
+40 628 m 560 628 l S
+40 612 m 560 612 l S
+40 596 m 560 596 l S
+40 580 m 560 580 l S
+40 564 m 560 564 l S
+40 548 m 560 548 l S
+40 532 m 560 532 l S
+40 516 m 560 516 l S
+40 500 m 560 500 l S
+40 484 m 560 484 l S
+40 468 m 560 468 l S
+40 452 m 560 452 l S
+40 756 m 40 452 l S
+100 756 m 100 452 l S
+310 756 m 310 452 l S
+380 756 m 380 452 l S
+430 756 m 430 452 l S
+495 756 m 495 452 l S
+560 756 m 560 452 l S
+0.85 g 40 740 520 16 re f 0 g
+40 756 m 560 756 l S
+40 740 m 560 740 l S
+40 724 m 560 724 l S
+40 708 m 560 708 l S
+40 692 m 560 692 l S
+40 676 m 560 676 l S
+40 660 m 560 660 l S
+40 644 m 560 644 l S
+40 628 m 560 628 l S
+40 612 m 560 612 l S
+40 596 m 560 596 l S
+40 580 m 560 580 l S
+40 564 m 560 564 l S
+40 548 m 560 548 l S
+40 532 m 560 532 l S
+40 516 m 560 516 l S
+40 500 m 560 500 l S
+40 484 m 560 484 l S
+40 468 m 560 468 l S
+40 452 m 560 452 l S
+BT /F2 9 Tf 43 744 Td (Código) Tj ET
+BT /F2 9 Tf 103 744 Td (Descrição) Tj ET
+BT /F2 9 Tf 313 744 Td (NCM) Tj ET
+BT /F2 9 Tf 383 744 Td (Qtd) Tj ET
+BT /F2 9 Tf 433 744 Td (Valor unit.) Tj ET
+BT /F2 9 Tf 498 744 Td (Total) Tj ET
+BT /F1 9 Tf 43 728 Td (P0001) Tj ET
+BT /F1 9 Tf 103 728 Td (Parafuso sextavado M6 x 40 zincado) Tj ET
+BT /F1 9 Tf 313 728 Td (73181500) Tj ET
+BT /F1 9 Tf 383 728 Td (1.200) Tj ET
+BT /F1 9 Tf 433 728 Td (0,42) Tj ET
+BT /F1 9 Tf 498 728 Td (504,00) Tj ET
+BT /F1 9 Tf 43 712 Td (P0002) Tj ET
+BT /F1 9 Tf 103 712 Td (Porca sextavada M6 zincada) Tj ET
+BT /F1 9 Tf 313 712 Td (73181600) Tj ET
+BT /F1 9 Tf 383 712 Td (1.500) Tj ET
+BT /F1 9 Tf 433 712 Td (0,18) Tj ET
+BT /F1 9 Tf 498 712 Td (270,00) Tj ET
+BT /F1 9 Tf 43 696 Td (P0003) Tj ET
+BT /F1 9 Tf 103 696 Td (Arruela lisa M6) Tj ET
+BT /F1 9 Tf 313 696 Td (73182200) Tj ET
+BT /F1 9 Tf 383 696 Td (2.000) Tj ET
+BT /F1 9 Tf 433 696 Td (0,07) Tj ET
+BT /F1 9 Tf 498 696 Td (140,00) Tj ET
+BT /F1 9 Tf 43 680 Td (P0004) Tj ET
+BT /F1 9 Tf 103 680 Td (Chapa de aço carbono 1,5 mm) Tj ET
+BT /F1 9 Tf 313 680 Td (72085200) Tj ET
+BT /F1 9 Tf 383 680 Td (18) Tj ET
+BT /F1 9 Tf 433 680 Td (312,50) Tj ET
+BT /F1 9 Tf 498 680 Td (5.625,00) Tj ET
+BT /F1 9 Tf 43 664 Td (P0005) Tj ET
+BT /F1 9 Tf 103 664 Td (Chapa de aço inox 304 1,0 mm) Tj ET
+BT /F1 9 Tf 313 664 Td (72193300) Tj ET
+BT /F1 9 Tf 383 664 Td (6) Tj ET
+BT /F1 9 Tf 433 664 Td (890,00) Tj ET
+BT /F1 9 Tf 498 664 Td (5.340,00) Tj ET
+BT /F1 9 Tf 43 648 Td (P0006) Tj ET
+BT /F1 9 Tf 103 648 Td (Tubo de aço quadrado 30 x 30) Tj ET
+BT /F1 9 Tf 313 648 Td (73066100) Tj ET
+BT /F1 9 Tf 383 648 Td (40) Tj ET
+BT /F1 9 Tf 433 648 Td (98,70) Tj ET
+BT /F1 9 Tf 498 648 Td (3.948,00) Tj ET
+BT /F1 9 Tf 43 632 Td (P0007) Tj ET
+BT /F1 9 Tf 103 632 Td (Barra chata 1 x 1/8 pol) Tj ET
+BT /F1 9 Tf 313 632 Td (72166100) Tj ET
+BT /F1 9 Tf 383 632 Td (25) Tj ET
+BT /F1 9 Tf 433 632 Td (44,90) Tj ET
+BT /F1 9 Tf 498 632 Td (1.122,50) Tj ET
+BT /F1 9 Tf 43 616 Td (P0008) Tj ET
+BT /F1 9 Tf 103 616 Td (Eletrodo revestido 2,5 mm) Tj ET
+BT /F1 9 Tf 313 616 Td (83111000) Tj ET
+BT /F1 9 Tf 383 616 Td (12) Tj ET
+BT /F1 9 Tf 433 616 Td (86,00) Tj ET
+BT /F1 9 Tf 498 616 Td (1.032,00) Tj ET
+BT /F1 9 Tf 43 600 Td (P0009) Tj ET
+BT /F1 9 Tf 103 600 Td (Disco de corte 7 pol) Tj ET
+BT /F1 9 Tf 313 600 Td (68042290) Tj ET
+BT /F1 9 Tf 383 600 Td (60) Tj ET
+BT /F1 9 Tf 433 600 Td (9,80) Tj ET
+BT /F1 9 Tf 498 600 Td (588,00) Tj ET
+BT /F1 9 Tf 43 584 Td (P0010) Tj ET
+BT /F1 9 Tf 103 584 Td (Disco de desbaste 7 pol) Tj ET
+BT /F1 9 Tf 313 584 Td (68042290) Tj ET
+BT /F1 9 Tf 383 584 Td (30) Tj ET
+BT /F1 9 Tf 433 584 Td (14,60) Tj ET
+BT /F1 9 Tf 498 584 Td (438,00) Tj ET
+BT /F1 9 Tf 43 568 Td (P0011) Tj ET
+BT /F1 9 Tf 103 568 Td (Tinta esmalte sintético cinza) Tj ET
+BT /F1 9 Tf 313 568 Td (32089010) Tj ET
+BT /F1 9 Tf 383 568 Td (15) Tj ET
+BT /F1 9 Tf 433 568 Td (78,90) Tj ET
+BT /F1 9 Tf 498 568 Td (1.183,50) Tj ET
+BT /F1 9 Tf 43 552 Td (P0012) Tj ET
+BT /F1 9 Tf 103 552 Td (Primer anticorrosivo) Tj ET
+BT /F1 9 Tf 313 552 Td (32089010) Tj ET
+BT /F1 9 Tf 383 552 Td (10) Tj ET
+BT /F1 9 Tf 433 552 Td (92,40) Tj ET
+BT /F1 9 Tf 498 552 Td (924,00) Tj ET
+BT /F1 9 Tf 43 536 Td (P0013) Tj ET
+BT /F1 9 Tf 103 536 Td (Solvente para esmalte 5 L) Tj ET
+BT /F1 9 Tf 313 536 Td (38140010) Tj ET
+BT /F1 9 Tf 383 536 Td (8) Tj ET
+BT /F1 9 Tf 433 536 Td (61,00) Tj ET
+BT /F1 9 Tf 498 536 Td (488,00) Tj ET
+BT /F1 9 Tf 43 520 Td (P0014) Tj ET
+BT /F1 9 Tf 103 520 Td (Lixa ferro grão 80) Tj ET
+BT /F1 9 Tf 313 520 Td (68052000) Tj ET
+BT /F1 9 Tf 383 520 Td (200) Tj ET
+BT /F1 9 Tf 433 520 Td (1,95) Tj ET
+BT /F1 9 Tf 498 520 Td (390,00) Tj ET
+BT /F1 9 Tf 43 504 Td (P0015) Tj ET
+BT /F1 9 Tf 103 504 Td (Lixa ferro grão 120) Tj ET
+BT /F1 9 Tf 313 504 Td (68052000) Tj ET
+BT /F1 9 Tf 383 504 Td (150) Tj ET
+BT /F1 9 Tf 433 504 Td (1,95) Tj ET
+BT /F1 9 Tf 498 504 Td (292,50) Tj ET
+BT /F1 9 Tf 43 488 Td (P0016) Tj ET
+BT /F1 9 Tf 103 488 Td (Fita isolante 19 mm x 20 m) Tj ET
+BT /F1 9 Tf 313 488 Td (39191020) Tj ET
+BT /F1 9 Tf 383 488 Td (48) Tj ET
+BT /F1 9 Tf 433 488 Td (6,30) Tj ET
+BT /F1 9 Tf 498 488 Td (302,40) Tj ET
+BT /F1 9 Tf 43 472 Td (P0017) Tj ET
+BT /F1 9 Tf 103 472 Td (Cabo flexível 2,5 mm² preto) Tj ET
+BT /F1 9 Tf 313 472 Td (85444900) Tj ET
+BT /F1 9 Tf 383 472 Td (7) Tj ET
+BT /F1 9 Tf 433 472 Td (189,00) Tj ET
+BT /F1 9 Tf 498 472 Td (1.323,00) Tj ET
+BT /F1 9 Tf 43 456 Td (P0018) Tj ET
+BT /F1 9 Tf 103 456 Td (Cabo flexível 2,5 mm² azul) Tj ET
+BT /F1 9 Tf 313 456 Td (85444900) Tj ET
+BT /F1 9 Tf 383 456 Td (5) Tj ET
+BT /F1 9 Tf 433 456 Td (189,00) Tj ET
+BT /F1 9 Tf 498 456 Td (945,00) Tj ET
+BT /F1 8 Tf 40 40 Td (Página 1 de 2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 4071 >>
+stream
+BT /F2 13 Tf 40 800 Td (Empresa Exemplo Ltda) Tj ET
+BT /F1 9 Tf 40 784 Td (Relatório de estoque em 31/07/2026) Tj ET
+0.5 w 0.3 G
+40 756 m 560 756 l S
+40 740 m 560 740 l S
+40 724 m 560 724 l S
+40 708 m 560 708 l S
+40 692 m 560 692 l S
+40 676 m 560 676 l S
+40 660 m 560 660 l S
+40 644 m 560 644 l S
+40 628 m 560 628 l S
+40 612 m 560 612 l S
+40 596 m 560 596 l S
+40 580 m 560 580 l S
+40 564 m 560 564 l S
+40 548 m 560 548 l S
+40 756 m 40 548 l S
+100 756 m 100 548 l S
+310 756 m 310 548 l S
+380 756 m 380 548 l S
+430 756 m 430 548 l S
+495 756 m 495 548 l S
+560 756 m 560 548 l S
+0.85 g 40 740 520 16 re f 0 g
+40 756 m 560 756 l S
+40 740 m 560 740 l S
+40 724 m 560 724 l S
+40 708 m 560 708 l S
+40 692 m 560 692 l S
+40 676 m 560 676 l S
+40 660 m 560 660 l S
+40 644 m 560 644 l S
+40 628 m 560 628 l S
+40 612 m 560 612 l S
+40 596 m 560 596 l S
+40 580 m 560 580 l S
+40 564 m 560 564 l S
+40 548 m 560 548 l S
+BT /F2 9 Tf 43 744 Td (Código) Tj ET
+BT /F2 9 Tf 103 744 Td (Descrição) Tj ET
+BT /F2 9 Tf 313 744 Td (NCM) Tj ET
+BT /F2 9 Tf 383 744 Td (Qtd) Tj ET
+BT /F2 9 Tf 433 744 Td (Valor unit.) Tj ET
+BT /F2 9 Tf 498 744 Td (Total) Tj ET
+BT /F1 9 Tf 43 728 Td (P0019) Tj ET
+BT /F1 9 Tf 103 728 Td (Disjuntor monopolar 20 A) Tj ET
+BT /F1 9 Tf 313 728 Td (85362000) Tj ET
+BT /F1 9 Tf 383 728 Td (36) Tj ET
+BT /F1 9 Tf 433 728 Td (17,80) Tj ET
+BT /F1 9 Tf 498 728 Td (640,80) Tj ET
+BT /F1 9 Tf 43 712 Td (P0020) Tj ET
+BT /F1 9 Tf 103 712 Td (Tomada 2P+T 10 A branca) Tj ET
+BT /F1 9 Tf 313 712 Td (85366990) Tj ET
+BT /F1 9 Tf 383 712 Td (80) Tj ET
+BT /F1 9 Tf 433 712 Td (8,45) Tj ET
+BT /F1 9 Tf 498 712 Td (676,00) Tj ET
+BT /F1 9 Tf 43 696 Td (P0021) Tj ET
+BT /F1 9 Tf 103 696 Td (Luva de raspa cano curto) Tj ET
+BT /F1 9 Tf 313 696 Td (42032900) Tj ET
+BT /F1 9 Tf 383 696 Td (90) Tj ET
+BT /F1 9 Tf 433 696 Td (11,20) Tj ET
+BT /F1 9 Tf 498 696 Td (1.008,00) Tj ET
+BT /F1 9 Tf 43 680 Td (P0022) Tj ET
+BT /F1 9 Tf 103 680 Td (Óculos de proteção incolor) Tj ET
+BT /F1 9 Tf 313 680 Td (90049090) Tj ET
+BT /F1 9 Tf 383 680 Td (50) Tj ET
+BT /F1 9 Tf 433 680 Td (7,90) Tj ET
+BT /F1 9 Tf 498 680 Td (395,00) Tj ET
+BT /F1 9 Tf 43 664 Td (P0023) Tj ET
+BT /F1 9 Tf 103 664 Td (Protetor auricular tipo concha) Tj ET
+BT /F1 9 Tf 313 664 Td (63079010) Tj ET
+BT /F1 9 Tf 383 664 Td (25) Tj ET
+BT /F1 9 Tf 433 664 Td (29,00) Tj ET
+BT /F1 9 Tf 498 664 Td (725,00) Tj ET
+BT /F1 9 Tf 43 648 Td (P0024) Tj ET
+BT /F1 9 Tf 103 648 Td (Capacete de segurança amarelo) Tj ET
+BT /F1 9 Tf 313 648 Td (65061000) Tj ET
+BT /F1 9 Tf 383 648 Td (20) Tj ET
+BT /F1 9 Tf 433 648 Td (24,50) Tj ET
+BT /F1 9 Tf 498 648 Td (490,00) Tj ET
+BT /F1 9 Tf 43 632 Td (P0025) Tj ET
+BT /F1 9 Tf 103 632 Td (Óleo lubrificante 20W50 1 L) Tj ET
+BT /F1 9 Tf 313 632 Td (27101932) Tj ET
+BT /F1 9 Tf 383 632 Td (24) Tj ET
+BT /F1 9 Tf 433 632 Td (32,00) Tj ET
+BT /F1 9 Tf 498 632 Td (768,00) Tj ET
+BT /F1 9 Tf 43 616 Td (P0026) Tj ET
+BT /F1 9 Tf 103 616 Td (Graxa de lítio 500 g) Tj ET
+BT /F1 9 Tf 313 616 Td (27101990) Tj ET
+BT /F1 9 Tf 383 616 Td (18) Tj ET
+BT /F1 9 Tf 433 616 Td (21,70) Tj ET
+BT /F1 9 Tf 498 616 Td (390,60) Tj ET
+BT /F1 9 Tf 43 600 Td (P0027) Tj ET
+BT /F1 9 Tf 103 600 Td (Estopa branca \(fardo 1 kg\)) Tj ET
+BT /F1 9 Tf 313 600 Td (63109000) Tj ET
+BT /F1 9 Tf 383 600 Td (30) Tj ET
+BT /F1 9 Tf 433 600 Td (12,80) Tj ET
+BT /F1 9 Tf 498 600 Td (384,00) Tj ET
+BT /F1 9 Tf 43 584 Td (P0028) Tj ET
+BT /F1 9 Tf 103 584 Td (Rolamento 6204 2RS) Tj ET
+BT /F1 9 Tf 313 584 Td (84821010) Tj ET
+BT /F1 9 Tf 383 584 Td (40) Tj ET
+BT /F1 9 Tf 433 584 Td (15,90) Tj ET
+BT /F1 9 Tf 498 584 Td (636,00) Tj ET
+BT /F1 9 Tf 43 568 Td (P0029) Tj ET
+BT /F1 9 Tf 103 568 Td (Correia em V A-42) Tj ET
+BT /F1 9 Tf 313 568 Td (40103100) Tj ET
+BT /F1 9 Tf 383 568 Td (22) Tj ET
+BT /F1 9 Tf 433 568 Td (19,60) Tj ET
+BT /F1 9 Tf 498 568 Td (431,20) Tj ET
+BT /F1 9 Tf 43 552 Td (P0030) Tj ET
+BT /F1 9 Tf 103 552 Td (Parafuso sextavado M8 x 60 inox) Tj ET
+BT /F1 9 Tf 313 552 Td (73181500) Tj ET
+BT /F1 9 Tf 383 552 Td (300) Tj ET
+BT /F1 9 Tf 433 552 Td (1,35) Tj ET
+BT /F1 9 Tf 498 552 Td (405,00) Tj ET
+BT /F1 8 Tf 40 40 Td (Página 2 de 2) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000462 00000 n 
+0000006298 00000 n 
+0000006434 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+10556
+%%EOF
