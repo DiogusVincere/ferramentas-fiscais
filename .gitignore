@@ -10,6 +10,10 @@ saidas/
 config.json
 *.log
 
+# Pacote portátil (python build\empacotar.py)
+dist/
+build/pyinstaller/
+
 # Relatórios de exemplo do comparador são gerados na hora (python exemplos/gerar_relatorios_exemplo.py)
 comparador-nf/exemplos/*.xlsx
 
